@@ -8,7 +8,7 @@
 
 html {
     font-size: 10px;
-    font-family: "Poppins", 'Times New Roman', Times, serif;
+    font-family: "Poppins", 'Verdana';
     scroll-behavior: smooth;
 }
 
@@ -146,7 +146,7 @@ img {
 }
 
 #portfolio .portfolio-header h1 {
-    margin-bottom: 50px;
+    margin-bottom: 50x;
 }
 
 #portfolio .all-projects {
@@ -175,7 +175,7 @@ img {
     align-items: flex-start;
     justify-content: center;
     flex-direction: column;
-    background-image: linear-gradient(60deg, #fafa3b 0%, #daa520 100%) 
+    background-image: linear-gradient(60deg, #fafa3b 0%, #daa520 100%); 
 }
 
 #portfolio .project-info h1 {
@@ -251,15 +251,12 @@ img {
         width: 100%;
         border-radius: 0;
     }
-
     #portfolio .all-projects .project-info {
         height: 100%;
     }
-
     #portfolio .all-projects .project-img {
         height: 100%;
     }
-
     #portfolio .project-item:nth-child(even) {
         flex-direction: row-reverse;
     }
