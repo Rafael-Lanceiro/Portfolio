@@ -1,4 +1,4 @@
-![Cubos_Minimalistas](https://user-images.githubusercontent.com/107138705/172922397-db19a0a0-8675-4cc8-9e65-3c6d9ba08b80.jpg)
+![Cubos_Minimalistas](https://user-images.githubusercontent.com/107138705/172929946-a51f412d-a6ff-40ad-ab37-093a015a4548.jpg)
 
 <h1 align="center">Portifólio</h1><br>
             <p bold>Apresento a vocês, meu portifólio de projetos. Sendo atualizado constantemente. De acordo com aminha evolução profissional!</p>
